@@ -8,8 +8,8 @@ function Hero() {
       <div className={classes.image}>
         <Image src="/images/site/max.png" alt="An image profile" width={300} height={300} />
       </div>
-      <h1>Hi, I'm Yusuf</h1>
-      <p>I blog about web development - especially frontend framework like Angular or React.</p>
+      <h1>Kelas Web</h1>
+      <p>Tempat belajar menjadi Web Developer yang handal</p>
     </section>
   )
 }
